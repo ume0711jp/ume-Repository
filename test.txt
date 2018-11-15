@@ -2,3 +2,5 @@ test
 
 ■Finder内でファイルパスを直指定して移動する方法
 　・Finder内でcontrol + shift + G を入力
+
+■
