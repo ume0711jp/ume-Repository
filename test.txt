@@ -3,4 +3,8 @@ test
 ■Finder内でファイルパスを直指定して移動する方法
 　・Finder内でcontrol + shift + G を入力
 
-■aaaaa
+■ume-Repositoryの場所
+　https://github.com/ume0711jp/ume-Repository
+
+■シェルを使ったgitHubの使用方法
+　https://techacademy.jp/magazine/6235
