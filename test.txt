@@ -8,3 +8,14 @@ test
 
 ■シェルを使ったgitHubの使用方法
 　https://techacademy.jp/magazine/6235
+
+■Win互換ZIPアプリのインストール
+　「WinArchiver Lite」のインストール（App Store）
+
+■Zipファイルのパスワード化方法
+　・予めパスワード無し版のZIPファイルを用意する
+　・ターミナルを用いる。
+　・zipcloak と入力し、パスワード化したいZIPファイルをドラッグ&ドロップ
+　・パスワードを入力（2回）
+　・完了
+　参考：https://webdirectors.jp/work/mac-zip-password-terminal/
