@@ -19,3 +19,6 @@ test
 　・パスワードを入力（2回）
 　・完了
 　参考：https://webdirectors.jp/work/mac-zip-password-terminal/
+
+■スクロールを逆にする
+　https://pc-karuma.net/mac-app-scroll-reverser/
